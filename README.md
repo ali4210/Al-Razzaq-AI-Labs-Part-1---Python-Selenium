@@ -1,5 +1,5 @@
 
-# Al Nafi International College - Selenium Automation Portfolio
+#  Selenium Automation Portfolio
 
 ## => Project Overview
 [cite_start]This repository hosts a complete collection of **20 Automation Labs** completed during the **Selenium & Web Automation** certification at **Al Nafi International College**[cite: 758].
@@ -236,3 +236,4 @@ python e2e_ecommerce_test.py
 ```
 
 ```
+
