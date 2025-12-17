@@ -32,15 +32,13 @@ The labs are organized into **5 modules** mirroring the automation engineer's wo
 
 *Focus: Environment configuration and driver management.*
 
-* 
 **Setup:** Installing Selenium via pip and verifying installation.
 
 
-* 
+
 **Navigation:** Launching Chrome/Firefox and validating URLs.
 
 
-* 
 **Headless Testing:** Configuring `ChromeOptions` to run tests without a UI for CI/CD efficiency.
 
 
@@ -235,4 +233,5 @@ python e2e_ecommerce_test.py
 ```
 
 ```
+
 
