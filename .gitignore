@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Selenium & Drivers
+*.exe
+*.log
+geckodriver
+chromedriver
+drivers/
+
+# Artifacts
+screenshots/
+*.png
+*.jpg
+reports/
+
+# IDE
+.idea/
+.vscode/

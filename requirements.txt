@@ -1,0 +1,4 @@
+selenium
+webdriver-manager  # Auto-manages driver versions (highly recommended)
+pytest             # For running tests professionally
+pillow             # Image processing (optional for screenshots)
