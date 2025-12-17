@@ -1,7 +1,7 @@
 # Al Nafi International College - Selenium Automation Portfolio
 
 ## => Project Overview
-[cite_start]This repository hosts a complete collection of **20 Automation Labs** completed during the **Selenium & Web Automation** certification at **Al Nafi International College**[cite: 758].
+This repository hosts a complete collection of **20 Automation Labs** completed during the **Selenium & Web Automation** certification at **Al Nafi International College**.
 
 The project demonstrates comprehensive proficiency in **Web UI Automation**, covering the entire testing lifecycle from basic element interaction to advanced handling of iFrames, Windows, and End-to-End (E2E) workflows using **Python** and **Selenium WebDriver**. All scripts have been updated to the modern **Selenium 4** standard.
 
@@ -235,3 +235,4 @@ python e2e_ecommerce_test.py
 ```
 
 ```
+
